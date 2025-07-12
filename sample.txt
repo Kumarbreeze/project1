@@ -30,6 +30,10 @@ pull new branch from git
 
 - create a new branch in git with source as main
 - use git pull
-- git switch -c origin/<new branch>
-
+- git checkout <new branch>
+- git pull
+- make code changes
+- git add .
+- git commit -m "message"
+- git push -u origin <branch name>
 -------------------------------------------------
