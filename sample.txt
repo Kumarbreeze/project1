@@ -24,3 +24,12 @@ git push -u origin feature4
 
 if you want to change the branch: git switch <branch name>
 
+-------------------------------------------------
+
+pull new branch from git
+
+- create a new branch in git with source as main
+- use git pull
+- git switch -c origin/<new branch>
+
+
