@@ -1,6 +1,9 @@
 if you want to create a new branch in local, in order to follow the below steps
 
-git branch <branch name?
+git branch <branch name>
+
+git switch <branch name>
+
 
 git pull origin main
 
